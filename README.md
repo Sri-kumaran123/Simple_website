@@ -8,4 +8,4 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 
 # Design  
-<a target="_blank" href="https://www.w3schools.com/w3css/tryw3css_templates_architect.htm">Click</a>
+<a  href="https://www.w3schools.com/w3css/tryw3css_templates_architect.htm" target="_blank">Click</a>
