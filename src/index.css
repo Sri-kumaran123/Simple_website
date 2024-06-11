@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navClass{
+    @apply flex items-center;
+}
+
+.navClass li{
+@apply lg:mx-10  p-1 hover:text-gray-400;
+}
+
