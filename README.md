@@ -9,3 +9,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 # Design  
 <a  href="https://www.w3schools.com/w3css/tryw3css_templates_architect.htm" target="_blank">Click</a>
+
+# My Result
+<a href="https://main--simplestaticwebsite.netlify.app/"> My Result</a>
